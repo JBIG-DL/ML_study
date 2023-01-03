@@ -17,7 +17,7 @@ Project would be [JBNU_ML Assignments]("https://github.com/JBIG-DL/ML_study_wint
 You can also challenge [cs229n Assignments](https://github.com/JBIG-DL/ML_study_winter23/tree/main/Project/cs229n%20Assignmnets)!
 
 ## Problem
-Solve problems by ML logic, check understanding of ML. 
+Solve problems by ML logic, check understanding of ML. \
 When you stuck to your problem, use [stackoverflow](https://stackoverflow.com) or study materials.
 
 ## Study materials
