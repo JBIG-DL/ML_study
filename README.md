@@ -21,7 +21,9 @@ Solve problems by ML logic, check understanding of ML.
 When you stuck to your problem, use [stackoverflow](https://stackoverflow.com) or study materials.
 
 ## Study materials
-We will study ML using JBNU ML materials and cs229n(ML). (It can be changed anytime)
+We will study ML using [PRML](https://github.com/JBIG-DL/ML_study_winter23/tree/main/PRML). \
+You can find it at JBNU Library Kor and Eng versions both.
+
 
 The Others are reference ML materials to study
 
