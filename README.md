@@ -11,13 +11,14 @@ materials for ML study in winter, 2023.
 - Seung-gyu Hwang
 
 ## Project
-Coding pratice using numpy (python)
-Project would be JBNU_ML Assignments.
+Coding pratice using numpy (python) \
+Project would be [JBNU_ML Assignments]("https://github.com/JBIG-DL/ML_study_winter23/tree/main/Project/JBNU_ML%20Assignments").
 
-You can also challenge cs229n Assignments!
+You can also challenge [cs229n Assignments](https://github.com/JBIG-DL/ML_study_winter23/tree/main/Project/cs229n%20Assignmnets)!
 
 ## Problem
-Solve problems by ML logic, check understanding of ML
+Solve problems by ML logic, check understanding of ML. 
+When you stuck to your problem, use [![stackoverflow](https://stackoverflow.com)]() or study materials.
 
 ## Study materials
 We will study ML using JBNU ML materials and cs229n(ML). (It can be changed anytime)
