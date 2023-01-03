@@ -12,6 +12,9 @@ materials for ML study in winter, 2023.
 
 ## Project
 Coding pratice using numpy (python)
+Project would be JBNU_ML Assignments.
+
+You can also challenge cs229n Assignments!
 
 ## Problem
 Solve problems by ML logic, check understanding of ML
