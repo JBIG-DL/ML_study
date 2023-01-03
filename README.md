@@ -13,3 +13,5 @@ We will study ML using JBNU ML materials and cs229n(ML). (It can be changed anyt
 
 The Others are reference ML materials to study
 
+Recommend this summary website [link](https://stanford.edu/~shervine/teaching/cs-229/,'cs229n summary'), if you hard to understand
+
