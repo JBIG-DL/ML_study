@@ -22,7 +22,7 @@ When you stuck to your problem, use [stackoverflow](https://stackoverflow.com) o
 
 ## Study materials
 We will study ML using [PRML](https://github.com/JBIG-DL/ML_study_winter23/tree/main/PRML). \
-You can find it at JBNU Library Kor and Eng versions both.
+You can find it at JBNU Library both Kor and Eng versions.
 
 
 The Others are reference ML materials to study
@@ -35,5 +35,5 @@ Recommend this summary website, if you hard to understand
 If you want small project, check [here](https://archive.ics.uci.edu/ml/index.php, "dataset UCI")
 
 ## Schedule
-- Week1 / 23.01.11.(wed) / machine-learning(JBNU) Lec_01 ~ Lec02
+- Week1 / 23.01.11.(wed) / PRML 
 - Week2 / 23.01.18.(wed) / (-)
