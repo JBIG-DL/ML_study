@@ -18,7 +18,7 @@ You can also challenge [cs229n Assignments](https://github.com/JBIG-DL/ML_study_
 
 ## Problem
 Solve problems by ML logic, check understanding of ML. 
-When you stuck to your problem, use [![stackoverflow](https://stackoverflow.com)]() or study materials.
+When you stuck to your problem, use [stackoverflow](https://stackoverflow.com) or study materials.
 
 ## Study materials
 We will study ML using JBNU ML materials and cs229n(ML). (It can be changed anytime)
