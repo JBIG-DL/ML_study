@@ -35,5 +35,5 @@ Recommend this summary website, if you hard to understand
 If you want small project, check [here](https://archive.ics.uci.edu/ml/index.php, "dataset UCI")
 
 ## Schedule
-- Week1 / 23.01.11.(wed) / PRML 
-- Week2 / 23.01.18.(wed) / (-)
+- Week1 / 23.01.11.(wed) / PRML 1.Introduction / [_]
+- Week2 / 23.01.18.(wed) / PRML (-) / [_]
