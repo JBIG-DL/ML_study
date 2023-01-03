@@ -2,6 +2,14 @@
 
 materials for ML study in winter, 2023.
 
+## Participant
+- Keon-woo Ro
+- Hoyeon Sin
+- Younghwan Choi
+- Minah Choi
+- Hyoseung kang
+- Seung-gyu Hwang
+
 ## Project
 Coding pratice using numpy (python)
 
