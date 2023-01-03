@@ -63,4 +63,4 @@ So in Octave/Matlab,
 ## Solutions
 You can check out implementation of the assignments after our whole study is ended. I tried to vectorize all the solutions.
 
-`If you want to see solutions, tell me then I'll send solution file to you.`
+`If you want to see solutions, tell me then I'll send you solution file.`
