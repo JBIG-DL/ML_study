@@ -28,11 +28,11 @@ You can find it at JBNU Library both Kor and Eng versions.
 The Others are reference ML materials to study
 
 Recommend this summary website, if you hard to understand
-1. [cs229n summary](https://stanford.edu/~shervine/teaching/cs-229/, "cs229n summary")
-2. [matrix calc summary](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf, " matrix calc summary")
+1. [cs229n summary](https://stanford.edu/~shervine/teaching, "cs229n summary")
+2. [matrix calc summary](https://www.math.uwaterloo.ca/~hwolkowi, " matrix calc summary")
 
 ## Dataset
-If you want small project, check [here](https://archive.ics.uci.edu/ml/index.php, "dataset UCI")
+If you want small project, check [here](https://archive.ics.uci.edu/ml, "dataset UCI")
 
 ## Schedule
 - Week1 / 23.01.11.(wed) / PRML 1.Introduction / [_]
